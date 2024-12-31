@@ -4,5 +4,6 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
 # weather-app
+Update the .env file with the api key from the [OpenAPI](https://openweathermap.org/api/one-call-3)
 ![image](https://github.com/user-attachments/assets/becec495-c57e-479c-bc3e-4d44dec7a52a)
 
